@@ -1,0 +1,7 @@
+{
+"userAgent": "WanderingTraderbot",
+"cID": "[REDACTED]",
+"cSC": "[REDACTED]",
+"userN": "WanderingTraderBot",
+"userP": "[REDACTED]"
+}
